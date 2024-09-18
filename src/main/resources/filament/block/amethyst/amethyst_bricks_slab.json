@@ -1,0 +1,24 @@
+{
+  "id": "betteramethyst:amethyst_bricks_slab",
+  "blockResource": {
+    "models" : {
+        "type=top": "betteramethyst:block/amethyst_bricks_slab_top",
+        "type=bottom": "betteramethyst:block/amethyst_bricks_slab",
+        "type=double": "betteramethyst:block/amethyst_bricks"
+    }
+  },
+  "itemResource": {
+    "models" : {
+        "default": "betteramethyst:block/amethyst_bricks_slab"
+    }
+  },
+  "behaviour": {
+    "slab": {}
+  },
+  "properties": {
+    "destroyTime": 1.5,
+    "explosionResistance": 6.0,
+    "blockBase": "minecraft:stone",
+    "itemBase": "minecraft:paper"
+  }
+}

@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+	  "item": "betteramethyst:amethyst_bricks"
+	},
+	"result": {
+		"count": 1,
+		"id": "betteramethyst:chiseled_amethyst_crystal_block"
+	}
+}

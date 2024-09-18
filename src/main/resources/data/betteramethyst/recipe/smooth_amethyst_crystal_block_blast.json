@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:amethyst_block"
+    },
+    "result": {
+        "id": "betteramethyst:smooth_amethyst_crystal_block"
+    },
+    "experience": 2,
+    "cookingtime": 200
+}

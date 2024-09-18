@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "_",
+        "_"
+    ],
+    "key": {
+        "_": {
+            "item": "betteramethyst:amethyst_bricks_slab"
+        }
+    },
+    "result": {
+        "id": "betteramethyst:chiseled_amethyst_crystal_block",
+        "count": 1
+    }
+}

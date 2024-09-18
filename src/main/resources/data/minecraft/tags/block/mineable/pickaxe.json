@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "betteramethyst:amethyst_bricks_slab",
+    "betteramethyst:amethyst_bricks",
+    "betteramethyst:amethyst_crystal_lamp",
+    "betteramethyst:amethyst_lamp",
+    "betteramethyst:chiseled_amethyst_crystal_block",
+    "betteramethyst:smooth_amethyst_crystal_block"
+  ]
+}

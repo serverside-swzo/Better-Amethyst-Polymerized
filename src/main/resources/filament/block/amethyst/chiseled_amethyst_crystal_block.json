@@ -1,0 +1,16 @@
+{
+  "id": "betteramethyst:chiseled_amethyst_crystal_block",
+  "blockModelType": "full_block",
+  "blockResource": {
+    "models": {
+      "default": "betteramethyst:block/chiseled_amethyst_crystal_block"
+    }
+  },
+  "properties": {
+    "destroyTime": 1.5,
+    "explosionResistance": 6.0,
+    "blockBase": "minecraft:stone",
+    "requiresTool": true,
+    "itemBase": "minecraft:paper"
+  }
+}

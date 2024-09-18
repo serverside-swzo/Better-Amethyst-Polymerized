@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "betteramethyst:amethyst_bricks"
+    },
+    "result": {
+        "id": "betteramethyst:amethyst_bricks_slab",
+        "count": 2
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "betteramethyst:block/amethyst_redstone_lamp_off"
+    },
+    "lit=true": {
+      "model": "betteramethyst:block/amethyst_redstone_lamp_on"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "betteramethyst:amethyst_lamp",
+  "blockResource": {
+    "models": {
+      "powerlevel=0": "betteramethyst:block/amethyst_redstone_lamp_off",
+      "powerlevel=1": "betteramethyst:block/amethyst_redstone_lamp_on",
+      "powerlevel=2": "betteramethyst:block/amethyst_redstone_lamp_on",
+      "powerlevel=3": "betteramethyst:block/amethyst_redstone_lamp_on",
+      "powerlevel=4": "betteramethyst:block/amethyst_redstone_lamp_on",
+      "powerlevel=5": "betteramethyst:block/amethyst_redstone_lamp_on",
+      "powerlevel=6": "betteramethyst:block/amethyst_redstone_lamp_on",
+      "powerlevel=7": "betteramethyst:block/amethyst_redstone_lamp_on",
+      "powerlevel=8": "betteramethyst:block/amethyst_redstone_lamp_on",
+      "powerlevel=9": "betteramethyst:block/amethyst_redstone_lamp_on",
+      "powerlevel=10": "betteramethyst:block/amethyst_redstone_lamp_on",
+      "powerlevel=11": "betteramethyst:block/amethyst_redstone_lamp_on",
+      "powerlevel=12": "betteramethyst:block/amethyst_redstone_lamp_on",
+      "powerlevel=13": "betteramethyst:block/amethyst_redstone_lamp_on",
+      "powerlevel=14": "betteramethyst:block/amethyst_redstone_lamp_on",
+      "powerlevel=15": "betteramethyst:block/amethyst_redstone_lamp_on"
+    }
+  },
+  "itemResource": {
+    "models": {
+      "default": "betteramethyst:block/amethyst_redstone_lamp_off"
+    }
+  },
+  "behaviour": {
+    "powerlevel": {
+      "max": 15
+    }
+},
+  "blockModelType": "full_block",
+  "properties": {
+    "redstoneConductor": false,
+    "blockBase": "minecraft:amethyst_block",
+    "lightEmission": {
+      "powerlevel=0": 0,
+      "powerlevel=1": 15,
+      "powerlevel=2": 15,
+      "powerlevel=3": 15,
+      "powerlevel=4": 15,
+      "powerlevel=5": 15,
+      "powerlevel=6": 15,
+      "powerlevel=7": 15,
+      "powerlevel=8": 15,
+      "powerlevel=9": 15,
+      "powerlevel=10": 15,
+      "powerlevel=11": 15,
+      "powerlevel=12": 15,
+      "powerlevel=13": 15,
+      "powerlevel=14": 15,
+      "powerlevel=15": 15
+    }
+  }
+}
