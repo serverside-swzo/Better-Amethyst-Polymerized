@@ -37,7 +37,7 @@
 
 ### Dependencies:
 - **[Polymer](https://modrinth.com/mod/polymer)**: 0.9.14+
-- **[Filament](https://modrinth.com/mod/filament)**: 0.8.3+
+- **[Filament](https://modrinth.com/mod/filament)**: 0.8.4+
 
 ### Crafting Recipes (Spoiler):
 <details>
