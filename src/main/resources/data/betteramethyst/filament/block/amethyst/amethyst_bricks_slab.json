@@ -15,6 +15,7 @@
   "behaviour": {
     "slab": {}
   },
+  "group": "betteramethyst:betteramethyst",
   "properties": {
     "destroyTime": 1.5,
     "explosionResistance": 6.0,

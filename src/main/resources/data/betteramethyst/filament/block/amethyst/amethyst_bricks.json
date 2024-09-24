@@ -6,6 +6,7 @@
       "default": "betteramethyst:block/amethyst_bricks"
     }
   },
+  "group": "betteramethyst:betteramethyst",
   "properties": {
     "destroyTime": 1.5,
     "explosionResistance": 6.0,

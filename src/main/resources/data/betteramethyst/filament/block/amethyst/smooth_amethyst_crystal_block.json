@@ -1,11 +1,12 @@
 {
-  "id": "betteramethyst:chiseled_amethyst_crystal_block",
+  "id": "betteramethyst:smooth_amethyst_crystal_block",
   "blockModelType": "full_block",
   "blockResource": {
     "models": {
-      "default": "betteramethyst:block/chiseled_amethyst_crystal_block"
+      "default": "betteramethyst:block/smooth_amethyst_crystal_block"
     }
   },
+  "group": "betteramethyst:betteramethyst",
   "properties": {
     "destroyTime": 1.5,
     "explosionResistance": 6.0,

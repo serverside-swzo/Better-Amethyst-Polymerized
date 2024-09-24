@@ -1,16 +1,17 @@
 {
-  "id": "betteramethyst:smooth_amethyst_crystal_block",
+  "id": "betteramethyst:amethyst_crystal_lamp",
   "blockModelType": "full_block",
   "blockResource": {
     "models": {
-      "default": "betteramethyst:block/smooth_amethyst_crystal_block"
+      "default": "betteramethyst:block/amethyst_crystal_lamp"
     }
   },
+  "group": "betteramethyst:betteramethyst",
   "properties": {
     "destroyTime": 1.5,
     "explosionResistance": 6.0,
     "blockBase": "minecraft:stone",
-    "requiresTool": true,
+	"lightEmission": 15,
     "itemBase": "minecraft:paper"
   }
 }
