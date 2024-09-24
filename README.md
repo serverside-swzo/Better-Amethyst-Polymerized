@@ -9,6 +9,15 @@
 
 **Better Amethyst Polymerized** is a [Filament](https://modrinth.com/mod/filament)-based mod. This mod is a [Polymer](https://modrinth.com/mod/polymer) port of [Even Better Amethyst](https://modrinth.com/mod/even-better-amethyst), seamlessly integrating a variety of new blocks into Minecraft using [Filament](https://modrinth.com/mod/filament).
 
+
+### Planned Additions:
+- Amethyst Tools
+- Amethyst Armor
+- Amethyst Prism (like a pokeball but for villagers)
+- Amethyst Furniture
+- More Amethyst block variants and decorations
+- Amethyst Chest (Maybe 😉)
+
 ### Added Blocks:
 - **Smooth Amethyst Crystal Block**
 - **Chiseled Amethyst Crystal Block**
